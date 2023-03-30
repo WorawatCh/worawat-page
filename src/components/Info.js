@@ -10,7 +10,7 @@ export const Info = () => {
                 <Col>
                 <div className='info-box'>
                     <h2>
-                        Infomation
+                        Information
                     </h2>
                 <Row>
                         <Col md={6} sm={12}>

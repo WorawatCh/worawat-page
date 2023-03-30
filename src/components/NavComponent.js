@@ -26,7 +26,7 @@ export const NavComponent = () => {
   }
 
   return (
-    <Navbar expand="md" className={scrolled ? 'scrolled':''}>
+    <Navbar expand="md" className={scrolled ? 'scrolled':''} collapseOnSelect={true}>
         <Container>
         <Navbar.Brand href="/">
           <img src={logo} alt="Logo" />
