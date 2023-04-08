@@ -339,7 +339,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .experience .exp-content:hover{
   background:  rgba(137,98,157,0.23);
   box-shadow: 10px 10px 5px 0px #140d28;
- 
+  transition: 0.5s ease-in-out;
 }
 .experience .exp-img img{
   width: 60%;
