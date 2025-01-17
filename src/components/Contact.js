@@ -18,7 +18,7 @@ export const Contact = () => {
                         <button onClick={() => window.open("https://github.com/WorawatCh")}>Github <Github  size={35}/></button>
                     </Col>
                     <Col size={12} md={6}>
-                        <button onClick={() => window.open("https://drive.google.com/file/d/1u1Ktu29dtN-zBzzrdtnRDfw0RnTLnyWn/view?usp=sharing")}>Resume <FiletypePdf  size={35}/></button>
+                        <button onClick={() => window.open("https://drive.google.com/file/d/1fnW_cq0sfjhRbZCZyR4FP0Rmz8Bwlsf9/view?usp=sharing")}>Resume <FiletypePdf  size={35}/></button>
                     </Col>
                     <Col size={12} md={6}>
                         <button onClick={() => window.open("https://www.facebook.com/rockey.cruzer/")}>Facebook <Facebook  size={35}/></button>
